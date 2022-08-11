@@ -10,7 +10,7 @@
 
 **git commit -m "комментарий"**   Создание commit с обязательным указанием комментария
 
-***
+***git checkout -b vetka5***    Создание ветки и переход
 
 ***git branch vetka1***                 Создание новой ветки
 
@@ -28,4 +28,8 @@
 
 ~~зачеркивание~~
 
-~~one more~~пш
+~~one more~~
+
+and mor text
+
+first pushing
